@@ -1543,3 +1543,9 @@ Entries:
       message: Fixed a bunch of broken tests and the lag we've been experiencing
   id: 165
   time: '2026-03-03T01:59:40.0000000+00:00'
+- author: VoidedDevNull
+  changes:
+    - type: Tweak
+      message: Hyperlathes now only take 1.5x longer instead of 3x to craft.
+  id: 166
+  time: '2026-03-03T02:00:12.0000000+00:00'

@@ -1,0 +1,19 @@
+- type: loadoutGroup
+  id: GeneralGlasses
+  name: loadout-group-contractor-glasses
+  minLimit: 0
+  loadouts:
+  - ContractorClothingEyesChameleonCiv
+  - ContractorClothingEyesGlasses
+  - ContractorClothingEyesGlassesCheapSunglasses
+  - ContractorClothingEyesBlindfold
+  - ContractorClothingEyesEyepatch
+  - ContractorClothingEyesGlassesJamjar
+  - ContractorClothingEyesGlassesChemical
+  - ContractorClothingEyesHudDiagnostic
+  - ContractorClothingEyesGlassesMeson
+  - ContractorClothingEyesHudMedical
+  - ContractorClothingEyesPunkGoggles # Punkish (Randomized visuals)
+  - ContractorClothingEyesPunkInfoShades # Punkish (Randomized visuals)
+  - ContractorClothingEyesEyepatchHudDiag
+  - ContractorClothingEyesEyepatchHudMedical

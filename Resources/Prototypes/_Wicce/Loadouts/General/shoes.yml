@@ -1,0 +1,66 @@
+- type: loadoutGroup
+  id: GeneralShoes
+  name: loadout-group-contractor-shoes
+  loadouts:
+  - ContractorClothingShoesChameleonCiv
+  - ContractorClothingShoesColorBlack
+  - ContractorClothingShoesClothwrap
+  - ContractorClothingShoesClothwrapTransparent # HL - Add invisible shoes to generic loadouts
+  - ContractorClothingShoesTourist
+  - ContractorClothingShoesBootsSalvage
+  - ContractorClothingShoesChef
+  - ContractorClothingShoesColorBlue
+  - ContractorClothingShoesColorOrange
+  - ContractorClothingShoesColorPurple
+  - ContractorClothingShoesColorRed
+  - ContractorClothingShoesColorBrown
+  - ContractorClothingShoesColorGreen
+  - ContractorClothingShoesColorYellow
+  - ContractorClothingShoesColorWhite
+  - ContractorClothingShoesBootsMag
+  - ContractorClothingShoesBootsWinter
+  - ContractorClothingShoesBootsWinterAtmos
+  - ContractorClothingShoesBootsWinterHydro
+  - ContractorClothingShoesBootsWinterCap
+  - ContractorClothingShoesBootsWinterCargo
+  - ContractorClothingShoesBootsWinterChef
+  - ContractorClothingShoesBootsWinterChem
+  - ContractorClothingShoesBootsWinterEngi
+  - ContractorClothingShoesBootsWinterGenetics
+  - ContractorClothingShoesBootsWinterMiner
+  - ContractorClothingShoesBootsWinterParamedic
+  - ContractorClothingShoesBootsWinterRobo
+  - ContractorClothingShoesBootsWinterSci
+  - ContractorClothingShoesBootsWinterViro
+  - ContractorClothingShoesBootsJack
+  - ContractorClothingShoesLeather
+  - ContractorClothingShoesBootsLaceup
+  - ContractorClothingShoesSlippers
+  - ContractorClothingShoeSlippersDuck
+  - ContractorClothingShoesFlippers
+  - ContractorClothingShoesBootsPunkRandomized # Punkish (Randomized visuals)
+  - ContractorClothingShoesBeeSocks # HL - Add lingerie to generic loadouts
+  - ContractorClothingShoesCoderSocks # HL - Add lingerie to generic loadouts
+  - ContractorClothingShoesDameDane
+  - ContractorClothingShoesBootsWork
+  - ContractorClothingShoesBootsCowboyBlack
+  - ContractorClothingShoesBootsCowboyBrown
+  - ContractorClothingShoesBootsCowboyWhite
+  - ContractorClothingShoesSnakeskinBoots
+  - ContractorClothingShoesHighheelBoots
+  - ContractorClothingShoesBootsCowboyFancy
+  - ContractorClothingShoesBootsWinterChiefEngineer
+  - ContractorClothingShoesBootsWinterCMO #HL Uncommented
+  - ContractorClothingShoesBootsWinterQM
+  - ContractorClothingShoesBootsWinterRD
+  - ContractorClothingShoesBootsWinterClown
+  - ContractorClothingShoesBootsWinterMime
+  - ContractorClothingShoesClown
+  - ContractorClothingShoesJester
+  - ContractorClothingShoesBootsPerformer
+  - ContractorClothingShoesSkates
+  - ContractorClothingShoesCoderValidSocks # HL - Add lingerie to generic loadouts
+  - ContractorClothingShoesClownLarge
+  - ContractorClothingShoesBling
+  fallbacks:
+  - ContractorClothingShoesColorBlack

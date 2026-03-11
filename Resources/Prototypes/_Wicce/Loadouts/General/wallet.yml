@@ -1,0 +1,8 @@
+- type: loadoutGroup
+  id: GeneralWallet
+  name: loadout-group-contractor-wallet
+  loadouts:
+  - ContractorClothingWalletLeatherBrown
+  - ContractorClothingWalletLeatherBlack
+  fallbacks:
+  - ContractorClothingWalletLeatherBrown

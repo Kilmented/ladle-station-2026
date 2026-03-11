@@ -1,0 +1,14 @@
+- type: loadoutGroup
+  id: GeneralEncryptionKey
+  name: loadout-group-contractor-encryption-key
+  minLimit: 0
+  maxLimit: 5
+  loadouts:
+  - ContractorEncryptionKeyFreelance
+  - ContractorEncryptionKeyTraffic
+  - ContractorEncryptionKeyMedical
+  - ContractorEncryptionKeyCargo
+  - ContractorEncryptionKeyEngineering
+  - ContractorEncryptionKeyScience
+  fallbacks:
+  - ContractorEncryptionKeyTraffic

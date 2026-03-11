@@ -1,0 +1,10 @@
+- type: loadoutGroup
+  id: GeneralCartridge
+  name: loadout-group-contractor-cartridge
+  minLimit: 0
+  maxLimit: 5
+  loadouts:
+  - ContractorAppraisalCartridge
+  - ContractorMedTekCartridge
+  - ContractorNetProbeCartridge
+  - ContractorLogProbeCartridge

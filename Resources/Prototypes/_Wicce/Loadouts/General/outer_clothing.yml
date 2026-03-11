@@ -1,0 +1,89 @@
+- type: loadoutGroup
+  id: GeneralOuterClothing
+  name: loadout-group-contractor-outerclothing
+  minLimit: 0
+  loadouts:
+  - ContractorClothingOuterChameleonCiv
+  - ContractorClothingOuterHardsuitBasic
+  - ContractorClothingOuterHardsuitVoidParamed
+  - ContractorClothingOuterHoodieGrey
+  - ContractorClothingOuterVestHazard
+  - ContractorClothingOuterApron
+  - ContractorClothingOuterApronBar
+  - ContractorClothingOuterApronBotanist
+  - ContractorClothingOuterApronChef
+  - ContractorClothingOuterHoodieBlack
+  - ContractorClothingOuterCoatJensen
+  - ContractorClothingOuterCoatGentle
+  - ContractorClothingOuterJacketChef
+  - ContractorClothingOuterHoodieChaplain
+  - ContractorClothingOuterNunRobe
+  - ContractorClothingOuterCoatLab
+  - ContractorClothingOuterCoatLabGene
+  - ContractorClothingOuterCoatLabChem
+  # - ContractorClothingOuterCoatLabRnd
+  - ContractorClothingOuterCoatRobo
+  - ContractorClothingOuterCoatLabViro
+  - ContractorClothingOuterBioScientist
+  - ContractorClothingOuterWinterCoat
+  - ContractorClothingOuterWinterCoatLong
+  - ContractorClothingOuterWinterAtmos
+  - ContractorClothingOuterWinterHydro
+  - ContractorClothingOuterWinterBar
+  - ContractorClothingOuterWinterChef
+  - ContractorClothingOuterWinterCap
+  - ContractorClothingOuterWinterMusician
+  - ContractorClothingOuterWinterCargo
+  - ContractorClothingOuterWinterMiner
+  - ContractorClothingOuterWinterEngi
+  - ContractorClothingOuterWinterMed
+  - ContractorClothingOuterWinterChem
+  - ContractorClothingOuterCoatParamedicWB
+  - ContractorClothingOuterWinterPara
+  - ContractorClothingOuterWinterGen
+  - ContractorClothingOuterWinterSci
+  - ContractorClothingOuterWinterRobo
+  - ContractorClothingOuterWinterViro
+  - ContractorClothingOuterWinterClown
+  - ContractorClothingOuterWinterMime
+  - ContractorClothingOuterWinterQM
+  - ContractorClothingOuterWinterRD
+  - ContractorClothingOuterWinterCMO #HL Uncommented
+  - ContractorClothingOuterWinterCE
+  - ContractorClothingOuterCoatLabCmo #HL Uncommented
+  - ContractorClothingOuterCoatLabSeniorPhysician
+  - ContractorClothingOuterCoatRD
+  - ContractorClothingOuterCoatLabSeniorResearcher
+  - ContractorClothingOuterFlannelRed
+  - ContractorClothingOuterFlannelBlue
+  - ContractorClothingOuterFlannelGreen
+  - ContractorClothingOuterCoatHyenhSweater
+  - ContractorClothingOuterCoatInspector
+  - ContractorClothingOuterCoatTrench
+  - ContractorClothingOuterDameDane
+  - ContractorClothingOuterWinterCoatPlaid
+  - ContractorClothingOuterCoatBomber
+  - ContractorClothingOuterCoatBomberPunkRed # Punkish (Static visuals)
+  - ContractorClothingOuterCoatJacketLeather # Punkish (Static visuals)
+  - ContractorClothingOuterCoatJacketBiker # Punkish (Static visuals)
+  - ContractorClothingOuterCoatJacketJamrock # Punkish (Static visuals)
+  - ContractorClothingOuterCoatBomberAerostatic # Punkish (Static visuals)
+  - ContractorClothingOuterCoatJacketLettermanBlue # Punkish (Static visuals)
+  - ContractorClothingOuterCoatJacketLettermanBrown # Punkish (Static visuals)
+  - ContractorClothingOuterCoatJacketLettermanRed # Punkish (Static visuals)
+  - ContractorClothingOuterCoatJacketLettermanMagenta # Punkish (Static visuals)
+  - ContractorClothingOuterCoatBomberPinkSleeves # Punkish (Static visuals)
+  - ContractorClothingOuterCoatBomberRandomized # Punkish (Randomized visuals)
+  - ContractorClothingOuterCoatAcidRaincoat # Punkish (Static visuals)
+  - ContractorClothingOuterCoatAcidRaincoatBlue # Punkish (Static visuals)
+  - ContractorClothingOuterCoatAcidRaincoatGreen # Punkish (Static visuals)
+  - ContractorClothingOuterCoatAcidRaincoatYellow # Punkish (Static visuals)
+  - ContractorClothingOuterCoatAcidRaincoatMagenta # Punkish (Static visuals)
+  - ContractorClothingOuterCoatBishop
+  - ContractorClothingOuterCoatWitchHunter
+  - ContractorClothingOuterCoatCardinal
+  - ContractorClothingOuterPlagueSuit
+  - ContractorWetFloorSign
+  - ContractorClothingOuterCoatExpensive
+  - ContractorClothingOuterCoatSpaceAsshole
+  - ContractorClothingOuterCoatBomberCrop

@@ -1,0 +1,14 @@
+- type: loadoutGroup
+  id: GeneralImplanter
+  name: loadout-group-contractor-implanter
+  minLimit: 0
+  maxLimit: 2
+  loadouts:
+  - ContractorMedicalTrackingImplanter
+  - ContractorLightImplanter
+  - ContractorBikeHornImplanter
+  - ContractorSadTromboneImplanter
+  - ContractorMimePowersImplanter
+  - ContractorBibleUserImplanter
+  fallbacks:
+  - ContractorMedicalTrackingImplanter

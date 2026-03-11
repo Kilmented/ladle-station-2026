@@ -1,0 +1,32 @@
+- type: loadoutGroup
+  id: GeneralHandItems
+  name: loadout-group-contractor-hand-items
+  minLimit: 0
+  maxLimit: 2 # One per hand
+  loadouts:
+  - ContractorBriefcaseBrownFilled
+  - ContractorToolboxEmergency
+  - ContractorToolboxMechanical
+  - ContractorCane
+  - ContractorLGBTQHandyFlag
+  - ContractorNTHandyFlag
+  - ContractorBalloonNT
+  - ContractorFlashlightUmbrella
+  - ContractorDawInstrumentFlatpack
+  - ContractorHoverbikeFlatpack
+  - ContractorEmotionalPetCarrier
+  - ContractorAppraisalTool
+  - ContractorPickaxe
+  - ContractorHandheldGPSBasic
+  - ContractorRadioHandheld
+  - ContractorNetworkConfigurator
+  - ContractorHandheldHealthAnalyzerUnpowered
+  - ContractorAnomalyScanner
+  - ContractorBucket
+  - ContractorGeigerCounter
+  - ContractorWeaponProtoKineticAccelerator
+  - ContractorPinpointerUniversal
+  - ContractorShipyardRCD
+  - ContractorHandheldCrewMonitor
+  - ContractorHypoMini
+  - ContractorBible

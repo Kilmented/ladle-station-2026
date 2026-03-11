@@ -1,0 +1,36 @@
+- type: loadoutGroup
+  id: GeneralBelt
+  name: loadout-group-contractor-belt
+  minLimit: 0
+  loadouts:
+  - ContractorClothingBeltChameleonCiv
+  - ContractorClothingBeltPlant
+  - ContractorClothingBeltPlantFilled
+  - ContractorClothingBeltChef
+  - ContractorClothingBeltChefFilled
+  - ContractorClothingBeltStorageWaistbag
+  - ContractorClothingBeltMedical
+  - ContractorClothingBeltMedicalFilled
+  - ContractorClothingBeltMedicalEMT
+  - ContractorClothingBeltMedicalEMTFilled
+  - ContractorClothingBeltUtility
+  - ContractorClothingBeltUtilityFilled
+  - ContractorClothingBeltSalvageWebbing
+  - ContractorClothingBeltSalvageWebbingFilledNF
+  - ContractorBoxFolderClipboard
+  - ContractorClothingBeltPilot
+  - ContractorClothingBeltPilotFilled
+  - ContractorClothingBeltBandolier
+  - ContractorClothingBeltHolster
+  - ContractorClothingBeltChaplainSash
+  - ContractorClothingBeltChaplainSashFilled
+  - ContractorBooksBag
+  - ContractorChemBag
+  - ContractorOreBag
+  - ContractorPlantBag
+  - ContractorConstructionBag
+  - ContractorClothingBeltMartialBlack
+  - ContractorClothingBeltPunkRandomized # Punkish (Randomized visuals)
+  - ContractorClothingBeltPunkRandomizedFilled # Punkish (Randomized visuals)
+  - ContractorClothingBeltSheathFilledHilt
+  - ContractorClothingBeltChampion

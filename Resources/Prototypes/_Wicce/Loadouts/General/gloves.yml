@@ -1,0 +1,30 @@
+- type: loadoutGroup
+  id: GeneralGloves
+  name: loadout-group-contractor-gloves
+  minLimit: 0
+  loadouts:
+  - ContractorClothingHandsChameleonCiv
+  - ContractorClothingHandsGlovesColorYellow
+  - ContractorClothingHandsGlovesLeather
+  - ContractorClothingHandsGlovesFingerless
+  - ContractorClothingHandsGlovesLatex
+  - ContractorClothingHandsGlovesNitrile
+  - ContractorClothingHandsGlovesRobohands
+  - ContractorClothingHandsGlovesColorBlack
+  - ContractorClothingHandsGlovesColorBlue
+  - ContractorClothingHandsGlovesColorGreen
+  - ContractorClothingHandsGlovesColorGray
+  - ContractorClothingHandsGlovesColorBrown
+  - ContractorClothingHandsGlovesColorLightBrown
+  - ContractorClothingHandsGlovesColorOrange
+  - ContractorClothingHandsGlovesColorPurple
+  - ContractorClothingHandsGlovesColorRed
+  - ContractorClothingHandsBeeWarmers # HL - Add lingerie to generic loadouts
+  - ContractorClothingHandsCoderWarmers # HL - Add lingerie to generic loadouts
+  - ContractorClothingHandsGlovesBoxingGreen
+  - ContractorClothingHandsGlovesBoxingBlue
+  - ContractorClothingHandsGlovesBoxingRed
+  - ContractorClothingHandsGlovesBoxingYellow
+  - ContractorClothingHandsCoderValidWarmers # HL - Add lingerie to generic loadouts
+  - ContractorClothingHandsGlovesCaptain
+  - ContractorClothingHandsGlovesColorWhite

@@ -1,0 +1,24 @@
+- type: loadoutGroup
+  id: GeneralEars
+  name: loadout-group-contractor-ears
+  minLimit: 1
+  maxLimit: 1
+  loadouts:
+  - ContractorClothingHeadsetGreyCommon
+  - ContractorClothingHeadsetCargoCommon
+  - ContractorClothingHeadsetMiningCommon
+  - ContractorClothingHeadsetCommandCommon
+  - ContractorClothingHeadsetEngineeringCommon
+  - ContractorClothingHeadsetMedicalCommon
+  - ContractorClothingHeadsetScienceCommon
+  - ContractorClothingHeadsetMedicalScienceCommon
+  - ContractorClothingHeadsetRoboticsCommon
+  - ContractorClothingHeadsetServiceCommon
+  - ContractorClothingHeadsetAltCargoCommon
+  - ContractorClothingHeadsetAltCommandCommon
+  - ContractorClothingHeadsetAltEngineeringCommon
+  - ContractorClothingHeadsetAltMedicalCommon
+  - ContractorClothingHeadsetAltScienceCommon
+  - ContractorClothingHeadsetChameleonCiv
+  fallbacks:
+  - ContractorClothingHeadsetGreyCommon

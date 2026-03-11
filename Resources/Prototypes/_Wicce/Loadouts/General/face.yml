@@ -1,0 +1,21 @@
+- type: loadoutGroup
+  id: GeneralFace
+  name: loadout-group-contractor-face
+  loadouts:
+  - ContractorClothingMaskGasChameleonCiv
+  - ContractorClothingMaskBreath
+  - ContractorClothingMaskBreathMedical
+  - ContractorClothingMaskSterile
+  - ContractorClothingMaskGas
+  - ContractorClothingMaskPunkHalf # Punkish (Randomized visuals)
+  - ContractorClothingMaskGasExplorer
+  - ContractorClothingMaskGasCaptain
+  - ContractorClothingMaskGasAtmos
+  - ContractorClothingMaskPlague
+  - ContractorClothingMaskMime
+  - ContractorClothingMaskScaredMime
+  - ContractorClothingMaskSadMime
+  - ContractorClothingMaskClown
+  - ContractorClothingMaskClownBald
+  fallbacks:
+  - ContractorClothingMaskBreath

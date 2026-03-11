@@ -1,0 +1,15 @@
+- type: loadoutGroup
+  id: GeneralBoxSurvival
+  name: loadout-group-contractor-survival-box
+  minLimit: 1
+  loadouts:
+  - ContractorNFBoxSurvival
+  - ContractorNFBoxSurvivalNitrogen
+  - ContractorNFBoxSurvivalExtended
+  - ContractorNFBoxSurvivalExtendedNitrogen
+  - ContractorNFBoxSurvivalSheleg
+  - ContractorNFBoxSurvivalExtendedSheleg
+  fallbacks:
+  - ContractorNFBoxSurvival
+  - ContractorNFBoxSurvivalNitrogen
+  - ContractorNFBoxSurvivalSheleg

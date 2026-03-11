@@ -19,7 +19,6 @@
   roles:
   - StationRepresentative
   - StationTrafficController
-  - CCServiceWorker # nyano
   - NFJanitor
   - MailCarrier # nyano
   - SecurityGuard
@@ -32,11 +31,4 @@
   color: "#DE3A3A"
   weight: 115 # Mono
   roles:
-  - PirateCaptain
-  - PirateFirstMate
-  - PDVDenasvar # Mono
-  - Pirate
-  - PDVInfiltrator # Mono
-  - PdvBorg # Mono
-  - Prisoner #nyano
   editorHidden: true # Wicce
